@@ -153,7 +153,13 @@ async def set_afk(afk_e):
         await afk_e.edit(f"Going AFK!\
         \nReason: `{string}`")
     else:
-        await afk_e.edit("`Going away from Virtual World !!`")
+        await afk_e.edit("""Dear Students 
+
+If I am not replying to you it means I am not partying rather I am developing something super awesome for you. You can contact my associate 9549042222 for any query. To join my telegram groups:
+
+1) PRMO, KVPY and Other Olympiads: Join t.me/prmo2020
+2) For JEE Advanced: t.me/adv2021""")
+
     if BOTLOG:
         await afk_e.client.send_message(BOTLOG_CHATID, "#AFK\nYou went AFK!")
     if afk_db:
