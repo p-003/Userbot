@@ -25,9 +25,8 @@ AFKSTR = [
     """Dear Students,
 Hi I do not use Telegram frequently, please whatsapp me your query at 7597084242 or call my associate at 9549042222.
 
-1) PRMO, KVPY and Other Olympiads: Join t.me/prmo2020
-2) For JEE Advanced: t.me/adv2021
-@prmo2020 is my official channel u can get all updates there...""" 
+Get all the information of lectures and study material at my official channel.
+t.me/prmo2020""" 
 ]
 # =================================================================
 
