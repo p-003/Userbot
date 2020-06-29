@@ -22,12 +22,12 @@ except AttributeError:
 
 # ========================= CONSTANTS ============================
 AFKSTR = [
-    """Dear Students 
-
-If I am not replying to you it means I am not partying rather I am developing something super awesome for you. You can contact my associate 9549042222 for any query. To join my telegram groups:
+    """Dear Students,
+Hi I do not use Telegram frequently, please whatsapp me your query at 7597084242 or call my associate at 9549042222.
 
 1) PRMO, KVPY and Other Olympiads: Join t.me/prmo2020
-2) For JEE Advanced: t.me/adv2021""" 
+2) For JEE Advanced: t.me/adv2021
+@prmo2020 is my official channel u can get all updates there...""" 
 ]
 # =================================================================
 
